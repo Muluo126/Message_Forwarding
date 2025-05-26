@@ -1,6 +1,6 @@
 #!/system/bin/sh
 #
-#如发现模块BUG，执行此脚本文件，把结果截图给作者，谢谢！
+#如发现模块BUG，执行此脚本文件，让AI分析，谢谢！
 #
 MODDIR=${0%/*}
 if type curl > /dev/null 2>&1; then
